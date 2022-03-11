@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "sanjay",
+      "username": "dhoni_1",
+      "email": "msdhoni@gmail.com",
+      "phone": "986003603",
+      "id": 24
+    },
+    {
+      "name": "Rajib Shrestha",
+      "username": "Rajib123",
+      "email": "ishan@dhunitech.io",
+      "phone": "789456132'",
+      "id": 25
+    }
+  ]
+}

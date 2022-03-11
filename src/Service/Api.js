@@ -1,5 +1,6 @@
 import axios  from "axios";
- const url="https://react-crud-app-sanjay.herokuapp.com/users"
+//  const url="https://react-crud-app-sanjay.herokuapp.com/users"
+const url="http://127.0.0.1:3002/users"
  
  export const getUsers=async (id)=>{
      id = id || ''
