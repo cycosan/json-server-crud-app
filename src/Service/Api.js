@@ -1,6 +1,7 @@
 import axios  from "axios";
-//  const url="https://react-crud-app-sanjay.herokuapp.com/users"
-const url="http://127.0.0.1:3002/users"
+// //  const url="https://react-crud-app-sanjay.herokuapp.com/users"
+// json-server --watch src/Database/db.json --host 127.0.0.1 --port 3002
+const url="https://react-crud-app-sanjay.herokuapp.com/users"
  
  export const getUsers=async (id)=>{
      id = id || ''
